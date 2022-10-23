@@ -23,6 +23,25 @@ public class Main {
         guide.put("человек 18", "83451072645");
         guide.put("человек 19", "85991625487");
         guide.put("человек 20", "83549917265");
-
+        System.out.println(guide.get("человек 1"));
+        System.out.println(guide.get("человек 2"));
+        System.out.println(guide.get("человек 3"));
+        System.out.println(guide.get("человек 4"));
+        System.out.println(guide.get("человек 5"));
+        System.out.println(guide.get("человек 6"));
+        System.out.println(guide.get("человек 7"));
+        System.out.println(guide.get("человек 8"));
+        System.out.println(guide.get("человек 9"));
+        System.out.println(guide.get("человек 10"));
+        System.out.println(guide.get("человек 11"));
+        System.out.println(guide.get("человек 12"));
+        System.out.println(guide.get("человек 13"));
+        System.out.println(guide.get("человек 14"));
+        System.out.println(guide.get("человек 15"));
+        System.out.println(guide.get("человек 16"));
+        System.out.println(guide.get("человек 17"));
+        System.out.println(guide.get("человек 18"));
+        System.out.println(guide.get("человек 19"));
+        System.out.println(guide.get("человек 20"));
     }
 }
